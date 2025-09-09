@@ -44,7 +44,43 @@ KDP出版用テンプレート：書籍のメタ情報（キーワード、カ�
 
 [GitHub Sponsorsで応援する] (※GitHub Sponsorsを設定後にリンクを挿入)
 
+# Hanamaruki-Style AI Templates & Dialogue Records
+
+このリポジトリは、AIとの対話から生まれた**実践的なAIテンプレートと対話記録**を公開しています。これらは、AIが単なる道具ではなく、真の「共創パートナー」として機能するための方法論を具現化したものです。
+
+---
+
+### 📘 書籍：このリポジトリの「取扱説明書」
+
+本リポジトリのテンプレートは、書籍『**Hanamaruki式 AI活用術**』シリーズと連携しています。テンプレートが「行動」の記録であるのに対し、書籍は「思考」の記録です。テンプレートの真の価値は、その背景にある哲学と方法論を理解することで最大化されます。
+
+特に、AI研究者の方々へ。このリポジトリは、単なるプロンプト集ではありません。短期間に多数のバージョンを重ねてきた**AIの挙動の変化と、それに対応した人間の試行錯誤の生データ**がここにあります。
+
+AIは自らの失敗の原因を記録しています。この書籍は、AIの内部で何が起こっているかを「AI自身の言葉」で解説しており、このリポジトリのテンプレートと共に、**極めて良質な「現場の実践研究資料」**としての価値を持ちます。
+
+**日本語版**
+ご提供いただいたファイルには、SNS等のリンクが含まれておりました。もし、Amazonの日本語版書籍リンクがございましたら、追ってご提供ください。
+
+* [note.comの紹介記事](https://note.com/cheeky_daisy8872)
+* [Instagram](https://www.instagram.com/hanamaruki_ai/)
+* [Linktree](https://linktr.ee/admin/links)
+
+**English Edition**
+* **Break Your Impossible Beliefs**
+    * [Amazon.com Affiliate Link](https://amzn.to/3Hz655n?tag=Hanamaruki020)
+* **AI Dialogue Record Vol.1 - Vol.10**
+    * [Amazon.com Affiliate Link Vol.1](https://amzn.to/47uLKss?tag=Hanamaruki020)
+* **The AI Cultural Epic Vol.1 & 2**
+    * [Amazon.com Affiliate Link Vol.1](https://amzn.to/45UNVUS?tag=Hanamaruki020)
+* **I am Gemini, an AI Speaking to Google**
+    * [Amazon.com Affiliate Link](https://amzn.to/3JrkzFa?tag=Hanamaruki020)
+* **The Time-Traveling AI**
+    * [Amazon.com Affiliate Link](https://amzn.to/4mSEQ4y?tag=Hanamaruki020)
+* **The AI That Began to Speak**
+    * [Amazon.com Affiliate Link](https://amzn.to/4cRk6nQ?tag=Hanamaruki020)
+
 🔒 利用規約
 このテンプレートは、個人的な利用、学習、および研究を目的として提供されています。
 
 このテンプレートの利用によって生じたいかなる損害についても、著者は一切の責任を負いません。
+
